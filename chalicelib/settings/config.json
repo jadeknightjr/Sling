@@ -1,0 +1,17 @@
+{
+  "secret_name": "test/github_username",
+  "region_name": "us-west-2",
+  "repo_owner": "jadeknightjr",
+  "repo_name": "dumpy",
+  "merge_label": "mergeable",
+  "merge_type": "merge",
+  "commit_title": "commit message",
+  "commit_msg": "Default Commit Message",
+  "service_name": "PRMBot",
+  "service_table_name": "SlingRegisteredServices",
+  "lock_name": "MyLock",
+  "lock_table_name": "SlingLockTable",
+  "log_table_name": "SlingLogTable",
+  "api_route": "",
+  "log_group_name": "/aws/lambda/Sling-dev-prm_bot"
+}
